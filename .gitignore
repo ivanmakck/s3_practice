@@ -1,0 +1,5 @@
+aws*
+sandbox
+log
+.env
+*.csv

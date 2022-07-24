@@ -1,0 +1,11 @@
+[api]
+url="https://www.themuse.com/api/public/jobs?page=50"
+
+[aws]
+bucket_full="s3://de-lab1"
+bucket_short="de-lab1"
+folder_s3cp="s3cp"
+folder_boto3="boto3"
+
+[run]
+pyscript="run_boto3.py"
